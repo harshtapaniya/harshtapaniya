@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Flutter Developer | Mobile App Enthusiast<br>📱 Passionate about building beautiful, high-performance cross-platform apps with Flutter.<br><br>🌟 About Me<br>🔹 Experienced in Dart, Flutter, and Firebase.<br>🔹 Love crafting intuitive UI/UX experiences.<br>🔹 Enjoy solving complex problems and optimizing performance.<br>🔹 Open source contributor & tech enthusiast.<br><br>🔧 Tech Stack<br>🔹Languages:- Dart, Java, Kotlin, Swift<br>🔹Frameworks:- Flutter<br>🔹Backend:- Firebase, Node.js<br>🔹Tools:- Git, CI/CD, VS Code, Android Studio
+🚀 Flutter Developer || Mobile App Developer<br>📱 Passionate about building beautiful, high-performance cross-platform apps with Flutter.<br><br>🌟 About Me<br>🔹 Experienced in Dart, Flutter, and Firebase.<br>🔹 Love crafting intuitive UI/UX experiences.<br>🔹 Enjoy solving complex problems and optimizing performance.<br>🔹 Open source contributor & tech enthusiast.<br><br>🔧 Tech Stack<br>🔹Languages:- Dart, Java, Kotlin, Swift<br>🔹Frameworks:- Flutter<br>🔹Backend:- Firebase, Node.js<br>🔹Tools:- Git, CI/CD, VS Code, Android Studio
 
 
 # 💻 Tech Stack:
