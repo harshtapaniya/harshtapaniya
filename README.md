@@ -120,7 +120,7 @@ I build reliable Android and iOS products with Flutter, native technologies, bac
 
 ### 💭 Developer Mindset
 
-> Build with clarity. Ship with reliability. Improve continuously.
+Build with clarity. Ship with reliability. Improve continuously.
 
 ### Code • Learn • Build • Repeat
 
