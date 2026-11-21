@@ -2,77 +2,85 @@
 
 # Hi 👋, I'm Harsh Tapaniya
 
-### Flutter Developer • Full Stack Developer • AI Explorer
+### Flutter & Native Mobile Developer | AI, Backend APIs & Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;Node.js+Developer;Building+Scalable+Applications;Exploring+AI+and+Automation" alt="Typing SVG" />
+I build reliable Android and iOS products with Flutter, native technologies, backend integrations, and AI-powered workflows.
+
+<p>
+  <a href="https://harsh-portfolio-f0ffe.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge" />
+  </a>
+  <a href="mailto:harshtapaniya.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack & Flutter Developer
-- 📱 Building production-ready mobile applications
-- 🌐 Creating modern web experiences with React & Next.js
-- ⚙️ Backend development using Node.js
-- 🗄️ Working with Firebase, Supabase & MongoDB
-- 🎨 UI/UX Prototyping using Figma
-- 🤖 Exploring AI integrations and automation
-- 📚 Passionate about Software Architecture & System Design
-- 🎯 Focused on building scalable and impactful products
-- 💡 Constantly learning, building, and improving
+- 📱 Building production-ready Android and iOS applications
+- ⚡ Developing cross-platform products with Flutter and Dart
+- 🛠️ Working with native Android and native iOS development
+- 🔌 Integrating REST APIs, Firebase, payments, maps, and third-party services
+- 🤖 Exploring AI-powered product features and automation workflows
+- 🧩 Focused on clean architecture, maintainable code, and reliable releases
+- 🤝 Collaborating with clients, designers, and cross-functional teams
+- 🧭 Supporting technical planning, debugging, testing, and product delivery
+- 👥 Mentoring junior developers and reviewing implementations
 
 ---
 
-# ⚡ Tech Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,html,css,dart" />
-</p>
+## ⚡ Tech Stack
 
 ### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
-### Frontend
+### Native Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple" />
 </p>
 
-### Backend
+### Backend & Integrations
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=firebase,postman,stripe,googlemaps" />
 </p>
 
-### Database & Cloud
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" />
-</p>
-
-### Tools & Productivity
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I Build
 
-- Advanced Flutter Development
-- Full Stack Application Development
-- AI-Powered Applications
-- Backend Architecture with Node.js
-- Performance Optimization
-- Open Source Contributions
-- System Design & Scalable Solutions
+- Cross-platform mobile applications
+- Native Android and iOS solutions
+- Backend-connected mobile products
+- Payment and location-based applications
+- AI-powered product features
+- Automation workflows
+- Scalable and production-ready application systems
+
+---
+
+## 📌 Current Focus
+
+- Advanced Flutter and mobile architecture
+- Native Android and iOS development
+- Backend APIs and service integrations
+- AI-powered applications
+- Automation and productivity workflows
+- Performance, stability, and maintainable code
 
 ---
 
@@ -80,24 +88,28 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/harshtapaniya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://harsh-portfolio-f0ffe.web.app">
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.reddit.com/user/harshtapaniya/">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://discord.gg/5G6xVw62e">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://x.com/harsh_tapaniya">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:harshtapaniya.connect@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -108,8 +120,8 @@
 
 ### 💭 Developer Mindset
 
-"First, solve the problem. Then, write the code."
+> Build with clarity. Ship with reliability. Improve continuously.
 
-### 🚀 Code • Learn • Build • Repeat
+### Code • Learn • Build • Repeat
 
 </div>
